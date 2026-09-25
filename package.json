@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-austin-animal-services",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Austin Animal Services MCP — live shelter intake & outcome records from",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4bd5fe031df21402ad28dfa3c40c9ce890309266c8c8b10718acd1076d07e1b1",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-fc69442247501cde32e87441161a0381cf5a5f055fc04eba7b984dfdcde793b1",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }

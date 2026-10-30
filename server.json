@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/austin-animal-services",
   "title": "Austin Animal Services",
   "description": "Austin Animal Services MCP — live shelter intake & outcome records from Austin, TX's Austin Animal…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/austin-animal-services",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-austin-animal-services",
